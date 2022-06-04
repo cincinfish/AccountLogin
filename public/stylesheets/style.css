@@ -48,3 +48,28 @@ button:hover {
   background-color: #4A82E1;
   box-shadow: #cccccc 3px 1px;
 }
+
+.alert {
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 15px;
+  width: 90%;
+  background-color: #f4cccc;
+  color: #842029;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: #842029;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
